@@ -1,6 +1,6 @@
-# TaskFlow — Team Task Management App
+# WorkSync — Team Task Management App
 
-TaskFlow is a robust, full-stack team task management application built using the MERN stack. It features role-based access control (RBAC), project administration, task tracking, and dynamic dashboards designed for high productivity.
+Worksync is a robust, full-stack team task management application built using the MERN stack. It features role-based access control (RBAC), project administration, task tracking, and dynamic dashboards designed for high productivity.
 
 ## 🚀 Features
 
